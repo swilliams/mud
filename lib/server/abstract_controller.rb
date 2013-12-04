@@ -1,4 +1,4 @@
-#All controllers should inherit from here
+### Extend AbstractController to create your own request/response cycles.
 class AbstractController
 
   attr_accessor :session
